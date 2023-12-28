@@ -9,6 +9,7 @@ export const RESUME_DATA = {
   name: "Sushmita R.",
   initials: "SR",
   location: "Dhaka, Bangladesh",
+  locationLink: "https://www.google.com/maps/",
 
   about:
     "Full Stack Web3 Developer focused on building applications with extra attention to details",
@@ -18,6 +19,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://www.sushh.dev/",
   contact: {
     email: "devmeowy@gmail.com",
+    // tel: "+00",
 
     social: [
       {
