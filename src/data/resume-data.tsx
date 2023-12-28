@@ -93,7 +93,7 @@ export const RESUME_DATA = {
       techStack: ["Full Stack Web3 Developer", "TypeScript", "Next.js", "IPFS"],
       description:
         "Polis is a DApp Marketplace dedicated to showcasing web3 tools, templates, and boilerplates.",
-      // logo: MonitoLogo,
+
       link: {
         label: "polis-nine.vercel.app",
         href: "https://github.com/Consensys/polis",
@@ -111,7 +111,7 @@ export const RESUME_DATA = {
         "Linea",
       ],
       description: "Web3 Event Ticketing DApp on Linea",
-      // logo: JarockiMeLogo,
+
       link: {
         label: "eventsea-web.vercel.app",
         href: "https://github.com/Consensys/eventsea",
@@ -122,7 +122,7 @@ export const RESUME_DATA = {
       techStack: ["Template", "Next.js", "MetaMask"],
       description:
         "Nextjs + MetaMask + Tailwind + ShadcnUI template for building web3 applications",
-      // logo: Minimal,
+
       link: {
         label: "Next-MetaMask-Template",
         href: "https://github.com/Consensys/Next-MetaMask-Template",
@@ -133,7 +133,7 @@ export const RESUME_DATA = {
       techStack: ["Template", "Next.js", "MetaMask GasAPI"],
       description:
         "A Nextjs template with MetaMask GasAPI for building web3 applications",
-      // logo: BarepapersLogo,
+
       link: {
         label: "GasAPI-template",
         href: "https://github.com/Consensys/GasAPI-template",
@@ -144,7 +144,7 @@ export const RESUME_DATA = {
       techStack: ["Side Project", "Next.js", "MDX"],
       description:
         "My personal website built with Next.js and MDX. I also have a blog section where I write about my experiences and learnings.",
-      // logo: BarepapersLogo,
+
       link: {
         label: "sushh.dev",
         href: "https://www.sushh.dev/",
@@ -155,7 +155,7 @@ export const RESUME_DATA = {
       techStack: ["Public Good", "Next.js", "Solidity", "MDX"],
       description:
         "Developer DAO Academy is an open-source education platform created by the Developer DAO.",
-      // logo: BarepapersLogo,
+
       link: {
         label: "academy",
         href: "https://github.com/Developer-DAO/academy",
@@ -166,7 +166,7 @@ export const RESUME_DATA = {
       techStack: ["Hackathon Project", "Next.js", "IPFS", "Livepeer"],
       description:
         "Glitch is a decentralized user-friendly video streaming platform with build in tokengated functionalities, where creators and users can interact together with Live and In demand videos.",
-      // logo: BarepapersLogo,
+
       link: {
         label: "Glitch",
         href: "https://glitch-one.vercel.app/",
@@ -177,7 +177,7 @@ export const RESUME_DATA = {
       techStack: ["Hackathon Project", "Next.js", "Chainlink Price Feeds"],
       description:
         "A Nextjs template with MetaMask GasAPI for building web3 applications",
-      // logo: BarepapersLogo,
+
       link: {
         label: "GasAPI-template",
         href: "https://building-blocks-app.vercel.app/",
