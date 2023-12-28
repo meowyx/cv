@@ -48,7 +48,7 @@ export default function Page() {
                   </a>
                 </Button>
               ) : null}
-              {RESUME_DATA.contact.tel ? (
+              {/* {RESUME_DATA.contact.tel ? (
                 <Button
                   className="h-8 w-8"
                   variant="outline"
@@ -59,7 +59,7 @@ export default function Page() {
                     <PhoneIcon className="h-4 w-4" />
                   </a>
                 </Button>
-              ) : null}
+              ) : null} */}
               {RESUME_DATA.contact.social.map((social) => (
                 <Button
                   key={social.name}
