@@ -48,7 +48,7 @@ export const RESUME_DATA = {
       title: "Software Engineer",
       logo: Consensys,
       start: "2023",
-      // end: "2024",
+      end: "2024",
       description:
         "As a key member of the Rapid Application Development (RAD) Contracted team, I specialize in building full-stack Web3 applications, having successfully developed and delivered three full-stack DApps, and created two templates. My expertise extends to content creation, with multiple blog posts demonstrating our product use cases. I've also been a judge at the NAVH Hackathon, identifying top creative and functional projects, and served as a mentor and judge at ETHIndia 2023, guiding and evaluating innovative blockchain solutions.",
     },
