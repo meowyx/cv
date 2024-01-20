@@ -53,6 +53,17 @@ export const RESUME_DATA = {
         "As a key member of the Rapid Application Development (RAD) Contracted team, I specialize in building full-stack Web3 applications, having successfully developed and delivered three full-stack DApps, and created two templates. My expertise extends to content creation, with multiple blog posts demonstrating our product use cases. I've also been a judge at the NAVH Hackathon, identifying top creative and functional projects, and served as a mentor and judge at ETHIndia 2023, guiding and evaluating innovative blockchain solutions.",
     },
     {
+      company: "Udacity",
+      link: "https://www.udacity.com/",
+      badges: ["Remote"],
+      title: "Instructor",
+      start: "2023",
+      end: "2024",
+      description:
+        "Involved in the development of a comprehensive curriculum, ensuring alignment with industry standards and the latest trends. Created engaging and informative educational content, including video lectures, interactive exercises, and quizzes, tailored to facilitate online learning for a diverse audience. Designed and administered assessments to evaluate student progress and provided personalized feedback to encourage academic growth.",
+    },
+
+    {
       company: "Developer DAO",
       link: "https://www.developerdao.com/",
       badges: ["Remote"],
